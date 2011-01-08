@@ -2,7 +2,7 @@
 
 # EvPlayer
 
-EvPlayer is just a launcher for internal Android mediaplayer for specified stream.
+EvPlayer is just a launcher for internal Android mediaplayer for specified stream, based on MediaPlayerDemo_Video.java from SDK.
 
 ## Getting Started
 
